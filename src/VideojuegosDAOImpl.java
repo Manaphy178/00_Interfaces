@@ -1,5 +1,5 @@
 
-public class VideojuegoDAOImpl extends MasterDAO implements VideojuegosDAO {
+public class VideojuegosDAOImpl extends MasterDAO implements VideojuegosDAO {
 
 	@Override
 	public void borrarVideojuego(int id) {
